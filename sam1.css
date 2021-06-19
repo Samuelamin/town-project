@@ -1,0 +1,412 @@
+body{
+    height: 2700px;
+    background-image: url(the-town-bg-01.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    transition:all 1s  ease;
+
+}
+
+.flex-container{
+    position: relative;
+}
+
+h1{
+    position: absolute;
+    color: white;
+    top: 191px;
+    left: 435px;
+    font-size: 63px;
+    font-weight: normal;
+    font-family: -webkit-pictograph;
+}
+
+h3{
+    position: absolute;
+    color: #f3ecec;
+    top: 306px;
+    left: 464px;
+    font-weight: unset;
+    font-size: 20px;
+    font-family: system-ui;
+}
+
+h5{
+    position: absolute;
+    color: #f3ecec;
+    top: 327px;
+    left: 502px;
+    font-weight: unset;
+    font-size: 17px;
+}
+
+
+                         /*  submits and value */
+.introduction{
+    background-color: rgba(255, 255, 255, 0);
+    border: 0px solid rgba(255, 255, 255, 0);
+    color: white;
+    margin: 4px;
+    right: 310px;
+    position: absolute;
+    font-size: 19px;
+    top: 16px;
+    transition:all 1s  ease;
+ 
+}
+
+.introduction:hover{
+    color: rgb(34, 86, 231);
+  
+}
+.OurWork{
+    background-color: rgba(255, 255, 255, 0);
+    border: 0px solid rgba(255, 255, 255, 0);
+    color: white;
+    margin: 4px;
+    right: 200px;
+    position: absolute;
+    font-size: 19px;
+    top: 16px;
+    transition:all 1s  ease;
+
+
+}
+.OurWork:hover{
+    color: blue;
+}
+.Contactus{
+    background-color: rgba(255, 255, 255, 0);
+    border: 0px solid rgba(255, 255, 255, 0);
+    color: white;
+    margin: 4px;
+    right: 75px;
+    position: absolute;
+    font-size: 19px;
+    top: 16px;
+    transition:all 1s  ease;
+
+
+}
+.Contactus:hover{
+    color: blue;
+}
+.online{
+    background-color: rgba(255, 255, 255, 0);
+    border: 0px solid rgba(255, 255, 255, 0);
+    color: white;
+    margin: 4px;
+    left: 75px;
+    position: absolute;
+    font-size: 19px;
+    top: 16px;
+    transition:all 1s  ease;
+
+}
+.online:hover{
+    color: blue;
+}
+
+                            /* introduction*/
+
+   .div2{
+    position: absolute;
+    background-image: url(the-town-01.jpg);
+    bottom: -379px;
+    left: 118px;
+    background-size: cover;
+    width: 443px;
+    height: 285px;
+
+   }                         
+
+   .h2{
+    position: absolute;
+    color: #008ff5;
+    right: -241px;
+    bottom: 212px;
+    font-size: 40px;
+    font-weight: normal;
+
+   }
+   .h3{
+    position: absolute;
+    width: 409px;
+    top: 33px;
+    color: #696363;
+    left: 489px;
+    font-weight: normal;
+    font-family: system-ui;
+    font-size: 18px;
+   }
+   .h4{
+    position: absolute;
+    width: 409px;
+    top: 110px;
+    color: #696363;
+    left: 489px;
+    font-weight: normal;
+    font-family: system-ui;
+    font-size: 18px;
+   }
+   .readmore{
+    position: absolute;
+    bottom: -6px;
+    left: 485px;
+    border-radius: 6px;
+    height: 35px;
+    border: 0px solid;
+    width: 110px;
+    color: white;
+    background-color:#008ff5 ;
+   }
+                                /* our work*/
+  #h5{
+      position: absolute;
+    bottom: -550px;
+    left: 73px;
+    font-size: 33px;
+    color: #676767;
+    font-family: -webkit-pictograph;
+    font-weight: unset;
+  }        
+  #h6{
+    position: absolute;
+    bottom: -564px;
+    left: 111px;
+    font-size: 14px;
+    color: #002bff;
+    font-family: -webkit-pictograph;
+    font-weight: unset;
+}
+  
+  #h7{
+    position: absolute;
+    bottom: -679px;
+    left: 40px;
+    font-size: 18px;
+    color: #676767;
+    font-family: -webkit-pictograph;
+    font-weight: unset;
+    width: 373px;
+   }  
+   
+   #h8{
+    position: absolute;
+    bottom: -547px;
+    left: 426px;
+    font-size: 33px;
+    color: #676767;
+    font-family: -webkit-pictograph;
+    font-weight: unset;
+   }
+   #h9{
+    position: absolute;
+    bottom: -561px;
+    left: 464px;
+    font-size: 14px;
+    color: #002bff;
+    font-family: -webkit-pictograph;
+    font-weight: unset;
+   }
+   #h10{
+    position: absolute;
+    bottom: -676px;
+    left: 393px;
+    font-size: 18px;
+    color: #676767;
+    font-family: -webkit-pictograph;
+    font-weight: unset;
+    width: 373px;
+   }
+   #h11{
+    position: absolute;
+    bottom: -547px;
+    left: 779px;
+    font-size: 33px;
+    color: #676767;
+    font-family: -webkit-pictograph;
+    font-weight: unset;
+   }
+   #h12{
+    position: absolute;
+    bottom: -561px;
+    left: 817px;
+    font-size: 14px;
+    color: #002bff;
+    font-family: -webkit-pictograph;
+    font-weight: unset;
+   }
+   #h13{
+    position: absolute;
+    bottom: -676px;
+    left: 746px;
+    font-size: 18px;
+    color: #676767;
+    font-family: -webkit-pictograph;
+    font-weight: unset;
+    width: 373px;
+   }
+   #h14{
+    position: absolute;
+    color: #008ff5;
+    font-size: 51px;
+    font-weight: normal;
+    bottom: -900px;
+    left: 456px;
+   }
+   #h15{
+    
+    position: absolute;
+    bottom: -907px;
+    left: 232px;
+    font-size: 18px;
+    color: #676767;
+    font-family: -webkit-pictograph;
+    font-weight: unset;
+
+   }
+   #h16{
+    position: absolute;
+    bottom: -928px;
+    left: 250px;
+    font-size: 18px;
+    color: #676767;
+    font-family: -webkit-pictograph;
+    font-weight: unset;
+
+   }
+   
+                                                 /*photos */
+.ph1{
+    position: absolute;
+    background-image: url(gallery-img-01.jpg);
+    z-index: 1;
+    width: 170px;
+    height: 265px;
+    background-size: contain;
+    bottom: -1215px;
+    left: 70px;
+    background-repeat: no-repeat;
+}
+.ph2{
+    position: absolute;
+    background-image: url(gallery-img-06.jpg);
+    z-index: 1;
+    width: 170px;
+    height: 265px;
+    background-size: contain;
+    bottom: -1215px;
+    left: 265px;
+    background-repeat: no-repeat;
+}
+.ph3{
+    position: absolute;
+    background-image: url(gallery-img-03.jpg);
+    z-index: 1;
+    width: 170px;
+    height: 265px;
+    background-size: contain;
+    bottom: -1215px;
+    left: 460px;
+    background-repeat: no-repeat;
+}
+.ph4{
+    position: absolute;
+    background-image: url(gallery-img-04.jpg);
+    z-index: 1;
+    width: 154px;
+    height: 258px;
+    background-size: cover;
+    bottom: -1208px;
+    left: 655px;
+    background-repeat: no-repeat;
+}
+
+.ph5{
+    position: absolute;
+    background-image: url(gallery-img-05.jpg);
+    z-index: 1;
+    width: 170px;
+    height: 265px;
+    background-size: contain;
+    bottom: -1215px;
+    left: 838px;
+    background-repeat: no-repeat;
+}
+                                                  /*conact us */
+
+ .ph6{
+    position: absolute;
+    background-image: url(the-town-bg-02.jpg);
+    z-index: 1;
+    width: 1119px;
+    height: 716px;
+    background-size: 100%;
+    bottom: -1986px;
+    left: 0;
+    background-repeat: no-repeat;
+
+ }              
+ 
+ #Contact{
+    position: absolute;
+    color: #f7f7f7;
+    bottom: -1479px;
+    font-size: 53px;
+    font-weight: normal;
+    z-index: 1;
+    left: 71px;
+    font-family: monospace;
+    font-weight: unset;
+
+ }
+ #h17{
+    position: absolute;
+    bottom: -1532px;
+    left: 74px;
+    font-size: 19px;
+    color: #ffffff;
+    font-family: -webkit-pictograph;
+    font-weight: unset;
+    z-index: 1;
+    width: 1000px;
+}
+
+.div5{
+    position: absolute;
+    border: 1px solid white;
+    border-radius: 6px;
+    height: 45px;
+    width: 181px;
+    bottom: -1800px;
+    margin: 0px;
+    padding-left: 33px;
+    right: 300px;
+    z-index: 1;
+    background-color: rgba(255, 255, 255, 0);
+    color: white;
+    transition:all 1s  ease;
+
+}
+.div5:hover{
+ background-color: white;
+ color:black;
+}
+
+.div6{
+    position: absolute;
+    border: 0px solid;
+    border-radius: 6px;
+    bottom: -1799px;
+    right: 176px;
+    z-index: 1;
+    width: 105px;
+    height: 47px;
+    transition:all 1s  ease;
+
+}
+ .div6:hover{
+     background-color: rgb(77, 128, 224);
+     color: white;
+ }
